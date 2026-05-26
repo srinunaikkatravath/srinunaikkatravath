@@ -328,8 +328,6 @@ IoT-based automated irrigation with **soil moisture sensing**, smart water manag
     src="https://raw.githubusercontent.com/srinunaikkatravath/srinunaikkatravath/output/github-snake.svg" />
 </picture>
 
-> 💡 To enable the snake animation, add this GitHub Actions workflow — see setup instructions below.
-
 ---
 
 <!-- ═══════════════════════════════════════════════
