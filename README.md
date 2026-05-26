@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Katravath Srinu Naik
-- 👀 I’m aspiring Front-End Developer and Front-End Designer...
-- 🌱 I’m currently learning 3 nd B-Tech CSE...
-- 💞️ I’m looking to collaborate on html,css,java script, python...
-- 📫 How to reach me katravath11143@gmail.com ...
+# Hi 👋 I'm Srinu Naik Katravath
 
-<!---
-katravathsrinunaik/katravathsrinunaik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Full Stack Developer · Oracle OCI Certified · M.Tech CSE
+
+- 🎓 M.Tech CSE @ JNTUACEP Pulivendula
+- 💼 500+ hrs Full Stack training @ KodNest (Java, Spring Boot)
+- 🏅 Oracle OCI 2025 AI Foundations Certified
+- 📄 UGC-published: Gesture Controlled Virtual Mouse (JNAO)
+- 🌾 Building: Next Afield — agri platform for Andhra Pradesh farmers
+- 📫 katravath11143@gmail.com
+
+### 🛠️ Tech Stack
+[Java] [Spring Boot] [React.js] [Python] [MySQL] [MongoDB]
+[Oracle OCI] [AWS] [Azure AI] [Selenium] [Git]
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=srinunaikkatravath)
+![Streak](https://streak-stats.demolab.com/?user=srinunaikkatravath)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srinunaikkatravath)
